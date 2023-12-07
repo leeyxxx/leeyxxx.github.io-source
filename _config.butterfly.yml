@@ -10,6 +10,7 @@ nav:
 # Menu 目錄
 menu:
     留言板: /messageboard/ || fas fa-comment-dots
+    接受捐助: /sponsorship/ || fas fa-money-check-alt
     本站源码: https://github.com/leeyxxx || fas fa-file-code
     博客||fas fa-list:
         文章: /archives/ || fas fa-archive
