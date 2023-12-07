@@ -237,7 +237,7 @@ aside:
             link: https://github.com/personalProject-675976
     card_announcement:
         enable: false
-        content: This is my Blog
+        content: 如果你在中国大陆的话最好翻墙访问本网站，因为网站中的部分图片我使用了dropbox作为我的图床，而dropbox在中国大陆是无法访问的.
     card_recent_post:
         enable: false
         limit: 5 # if set 0 will show all
