@@ -1,7 +1,6 @@
 ---
-title: 标签
+title: 留言板
 date: 2023-12-06 20:46:22
-type: tags
 top_img: false
-comments: false
+comments: true
 ---
