@@ -98,6 +98,9 @@ ignore:
 Plugins:
 - hexo-generator-sitemap
 
+sitemap:
+    path: sitemap.xml
+
 ## Themes: https://hexo.io/themes/
 theme: butterfly
 
