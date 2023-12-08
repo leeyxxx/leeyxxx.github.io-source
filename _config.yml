@@ -13,7 +13,7 @@ timezone: "Asia/Shanghai"
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://leeyxxx.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -93,13 +93,6 @@ include:
 exclude:
 ignore:
 
-# Extensions
-## Plugins: https://hexo.io/plugins/
-Plugins:
-- hexo-generator-sitemap
-
-sitemap:
-    path: sitemap.xml
 
 ## Themes: https://hexo.io/themes/
 theme: butterfly
@@ -110,3 +103,11 @@ deploy:
     type: git
     repo: git@github.com:leeyxxx/leeyxxx.github.io.git
     branch: master
+
+# Extensions
+## Plugins: https://hexo.io/plugins/
+Plugins:
+- hexo-generator-sitemap
+
+sitemap:
+    path: sitemap.xml
